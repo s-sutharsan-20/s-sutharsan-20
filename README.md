@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Chess player 
 play with me on chess.com id-https://www.chess.com/member/s_sutharsan_20
 -->
-// README.md
 ![Github stats](https://github-readme-stats.vercel.app/api?username=s-sutharsan-20&theme=highcontrast&show_icons=true&count_private=true)
-// README.md
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=s-sutharsan-20)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=s-sutharsan-20&layout=compact)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/yourusername/repo-name)
