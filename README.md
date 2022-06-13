@@ -24,4 +24,7 @@ play with me on chess.com id-https://www.chess.com/member/s_sutharsan_20
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=s-sutharsan-20&layout=compact)
 
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=s-sutharsan-20&repo=python-programs1)](https://github.com/s-sutharsan/python-programs1)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=s-sutharsan-20&repo=python-programs-1)](https://github.com/s-sutharsan/python-programs-1)
+
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=s-sutharsan-20&repo=python--programs-2)](https://github.com/s-sutharsan/python--programs-2)
