@@ -18,3 +18,5 @@ play with me on chess.com id-https://www.chess.com/member/s_sutharsan_20
 ![Github stats](https://github-readme-stats.vercel.app/api?username=s-sutharsan-20&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=s-sutharsan-20)
+
+![Twitter Follow](.. image:: https://img.shields.io/twitter/url?style=social&url=s_sutharsan_20   :alt: Twitter URL)
