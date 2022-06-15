@@ -30,5 +30,5 @@ play with me on chess.com id-https://www.chess.com/member/s_sutharsan_20
 
 ### Social
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/s_sutharsan_20) 
-![Instagram](https://img.shields.io/twitter/url?label=instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fs.sutharsan.20%2F)
-![Chess.com](https://img.shields.io/twitter/url?color=green&label=chess.com&logo=c&logoColor=green&style=social&url=https%3A%2F%2Fwww.chess.com%2Fmember%2Fs_sutharsan_20)
+[![Instagram](https://img.shields.io/twitter/url?label=instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fs.sutharsan.20%2F)](https://instagram.com/s.sutharsan.20?r=nametag)
+[![Chess.com](https://img.shields.io/twitter/url?color=green&label=chess.com&logo=c&logoColor=green&style=social&url=https%3A%2F%2Fwww.chess.com%2Fmember%2Fs_sutharsan_20)](https://www.chess.com/member/s_sutharsan_20)
