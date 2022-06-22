@@ -16,7 +16,12 @@
 [![](https://visitcount.itsvg.in/api?id=BetaSpider&icon=0&color=2)](https://visitcount.itsvg.in)
 
 
-
+### 💻 Learning Area
+[![Github](https://img.shields.io/twitter/url?color=blue&label=Github&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2Fs-sutharsan-20)](https://github.com/s-sutharsan-20)
+[![Stackoverflow](https://img.shields.io/twitter/url?label=stackoverflow&logo=stackoverflow&logoColor=orange&style=social&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F16702277%2Fs-sutharsan-20)](https://stackoverflow.com/users/16702277/s-sutharsan-20)
+[![Sololearn](https://img.shields.io/twitter/url?color=blue&label=Sololearn&logo=sololearn&logoColor=black&style=social&url=https%3A%2F%2Fwww.sololearn.com%2FProfile%2F20162416%2F%3Fref%3Dapp)](https://www.sololearn.com/Profile/20162416/?ref=app)
+[![Kaggle](https://img.shields.io/twitter/url?color=blue&label=Kaggle&logo=kaggle&logoColor=black&style=social&url=https%3A%2F%2Fwww.kaggle.com%2Fssutharsan20%2FHome%3FisEditing%3DFalse%26verifyPhone%3DFalse)](https://www.kaggle.com/ssutharsan20/Home?isEditing=False&verifyPhone=False)
+[![Medium](https://img.shields.io/twitter/url?label=Medium&logo=medium&style=social&url=https%3A%2F%2Fmedium.com%2F%40s.sutharsan.20%3Fsource%3Demail-3ed481bdfd1a-1655413664389-digest.reader-------------------------baaad420_34d5_4145_bdc5_cb197d487128)](https://medium.com/@s.sutharsan.20?source=email-3ed481bdfd1a-1655413664389-digest.reader-------------------------baaad420_34d5_4145_bdc5_cb197d487128)
 ### 🌐 Social Media
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/s_sutharsan_20) 
@@ -28,12 +33,7 @@
 [![Twitch](https://img.shields.io/twitter/url?label=Twitch&logo=Twitch&style=social&url=https%3A%2F%2Fwww.twitch.tv%2Fs_sutharsan_20%3Fsr%3Da)](https://www.twitch.tv/s_sutharsan_20?sr=a)
 
 
-### 💻 Learning Area
-[![Github](https://img.shields.io/twitter/url?color=blue&label=Github&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2Fs-sutharsan-20)](https://github.com/s-sutharsan-20)
-[![Stackoverflow](https://img.shields.io/twitter/url?label=stackoverflow&logo=stackoverflow&logoColor=orange&style=social&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F16702277%2Fs-sutharsan-20)](https://stackoverflow.com/users/16702277/s-sutharsan-20)
-[![Sololearn](https://img.shields.io/twitter/url?color=blue&label=Sololearn&logo=sololearn&logoColor=black&style=social&url=https%3A%2F%2Fwww.sololearn.com%2FProfile%2F20162416%2F%3Fref%3Dapp)](https://www.sololearn.com/Profile/20162416/?ref=app)
-[![Kaggle](https://img.shields.io/twitter/url?color=blue&label=Kaggle&logo=kaggle&logoColor=black&style=social&url=https%3A%2F%2Fwww.kaggle.com%2Fssutharsan20%2FHome%3FisEditing%3DFalse%26verifyPhone%3DFalse)](https://www.kaggle.com/ssutharsan20/Home?isEditing=False&verifyPhone=False)
-[![Medium](https://img.shields.io/twitter/url?label=Medium&logo=medium&style=social&url=https%3A%2F%2Fmedium.com%2F%40s.sutharsan.20%3Fsource%3Demail-3ed481bdfd1a-1655413664389-digest.reader-------------------------baaad420_34d5_4145_bdc5_cb197d487128)](https://medium.com/@s.sutharsan.20?source=email-3ed481bdfd1a-1655413664389-digest.reader-------------------------baaad420_34d5_4145_bdc5_cb197d487128)
+
 
 ### ♟️ playing Area
 [![Chess.com](https://img.shields.io/twitter/url?color=green&label=chess.com&logo=c&logoColor=green&style=social&url=https%3A%2F%2Fwww.chess.com%2Fmember%2Fs_sutharsan_20)](https://www.chess.com/member/s_sutharsan_20)
