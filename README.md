@@ -26,7 +26,7 @@
 [![Kaggle](https://img.shields.io/twitter/url?color=blue&label=Kaggle&logo=kaggle&logoColor=black&style=social&url=https%3A%2F%2Fwww.kaggle.com%2Fssutharsan20%2FHome%3FisEditing%3DFalse%26verifyPhone%3DFalse)](https://www.kaggle.com/ssutharsan20/Home?isEditing=False&verifyPhone=False)
 [![Medium](https://img.shields.io/twitter/url?label=Medium&logo=medium&style=social&url=https%3A%2F%2Fmedium.com%2F%40s.sutharsan.20%3Fsource%3Demail-3ed481bdfd1a-1655413664389-digest.reader-------------------------baaad420_34d5_4145_bdc5_cb197d487128)](https://medium.com/@s.sutharsan.20?source=email-3ed481bdfd1a-1655413664389-digest.reader-------------------------baaad420_34d5_4145_bdc5_cb197d487128)
 
-### 🌐 Social Media
+### 🌐Social Media
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/s_sutharsan_20) 
 [![Instagram](https://img.shields.io/twitter/url?label=instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fs.sutharsan.20%2F)](https://instagram.com/s.sutharsan.20?r=nametag)
@@ -40,7 +40,7 @@
 
 
 
-### ♟️ playing Area
+### ♟️playing Area
 [![Chess.com](https://img.shields.io/twitter/url?color=green&label=chess.com&logo=c&logoColor=green&style=social&url=https%3A%2F%2Fwww.chess.com%2Fmember%2Fs_sutharsan_20)](https://www.chess.com/member/s_sutharsan_20)
 [![Lichess.org](https://img.shields.io/twitter/url?color=blue&label=Lichess.org&logo=lichess&logoColor=black&style=social&url=https%3A%2F%2Flichess.org%2F%40%2Fs_sutharsan_20)](https://lichess.org/@/s_sutharsan_20)
 ###
