@@ -17,6 +17,18 @@
 
 [![](https://visitcount.itsvg.in/api?id=BetaSpider&icon=0&color=2)](https://visitcount.itsvg.in)
 
+### Languages
+![python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/twitter/url?label=C%2B%2B&logo=C%2B%2B&style=social&url=https%3A%2F%2Fcplusplus.com)
+
+### Python Modules
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/twitter/url?color=orange&label=matplotlib&logo=plotly&logoColor=yellow&style=social&url=https%3A%2F%2Fmatplotlib.org)
+![CSV](https://img.shields.io/twitter/url?label=CSV&logo=Microsoft%20excel&style=social&url=https%3A%2F%2Fdocs.python.org%2F3%2Flibrary%2Fcsv.html)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) 
+
+
 
 ### 💻Learning Area✨
 [![Github](https://img.shields.io/twitter/url?color=blue&label=Github&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2Fs-sutharsan-20)](https://github.com/s-sutharsan-20)
