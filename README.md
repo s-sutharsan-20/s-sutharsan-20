@@ -14,8 +14,12 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-sutharsan-20&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=s-sutharsan-20&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
 
 [![](https://visitcount.itsvg.in/api?id=BetaSpider&icon=0&color=2)](https://visitcount.itsvg.in)
+
 
 ### Languages
 ![python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -57,3 +61,5 @@
 [![Chess.com](https://img.shields.io/twitter/url?color=green&label=chess.com&logo=c&logoColor=green&style=social&url=https%3A%2F%2Fwww.chess.com%2Fmember%2Fs_sutharsan_20)](https://www.chess.com/member/s_sutharsan_20)
 [![Lichess.org](https://img.shields.io/twitter/url?color=blue&label=Lichess.org&logo=lichess&logoColor=black&style=social&url=https%3A%2F%2Flichess.org%2F%40%2Fs_sutharsan_20)](https://lichess.org/@/s_sutharsan_20)
 ###
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/s.sutharsan.20) 
