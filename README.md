@@ -5,7 +5,7 @@
 
 -->
 
-### 📊Github Stats 
+### 📊Github Stats✨
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=s-sutharsan-20&theme=highcontrast&show_icons=true&count_private=true)
 
@@ -14,14 +14,13 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-sutharsan-20&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆GitHub Trophies✨
 ![](https://github-profile-trophy.vercel.app/?username=s-sutharsan-20&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
+[![](https://visitcount.itsvg.in/api?id=s-sutharsan-20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=BetaSpider&icon=0&color=2)](https://visitcount.itsvg.in)
 
-
-### 👨‍💻Tech Stacks
+### 👨‍💻Tech Stacks✨
 ![python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/twitter/url?label=C%2B%2B&logo=C%2B%2B&style=social&url=https%3A%2F%2Fcplusplus.com)
 
@@ -57,8 +56,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sutharsan-s-478362240/) 
 [![Telegram](https://img.shields.io/twitter/url?color=blue&label=telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fs_sutharsan_20)](https://t.me/s_sutharsan_20)
 [![Twitch](https://img.shields.io/twitter/url?label=Twitch&logo=Twitch&style=social&url=https%3A%2F%2Fwww.twitch.tv%2Fs_sutharsan_20%3Fsr%3Da)](https://www.twitch.tv/s_sutharsan_20?sr=a)
-
-
 
 ### ♟️playing Area✨
 [![Chess.com](https://img.shields.io/twitter/url?color=green&label=chess.com&logo=c&logoColor=green&style=social&url=https%3A%2F%2Fwww.chess.com%2Fmember%2Fs_sutharsan_20)](https://www.chess.com/member/s_sutharsan_20)
