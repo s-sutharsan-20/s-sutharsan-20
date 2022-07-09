@@ -21,16 +21,21 @@
 [![](https://visitcount.itsvg.in/api?id=BetaSpider&icon=0&color=2)](https://visitcount.itsvg.in)
 
 
-### Languages
+### 👨‍💻Tech Stacks
 ![python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/twitter/url?label=C%2B%2B&logo=C%2B%2B&style=social&url=https%3A%2F%2Fcplusplus.com)
 
-### Python Modules
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) 
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/twitter/url?color=orange&label=matplotlib&logo=plotly&logoColor=yellow&style=social&url=https%3A%2F%2Fmatplotlib.org)
+
 ![CSV](https://img.shields.io/twitter/url?label=CSV&logo=Microsoft%20excel&style=social&url=https%3A%2F%2Fdocs.python.org%2F3%2Flibrary%2Fcsv.html)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
+
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 
 
 
 
@@ -49,10 +54,8 @@
 [![Instagram](https://img.shields.io/twitter/url?label=instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fs.sutharsan.20%2F)](https://instagram.com/s.sutharsan.20?r=nametag)
 [![Facebook](https://img.shields.io/twitter/url?color=blue&label=facebook&logo=facebook&logoColor=blue&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fs.sutharsan.20)](https://www.facebook.com/s.sutharsan.20)
 
-[![Whatsapp](https://img.shields.io/twitter/url?color=blue&label=Whatsapp&logo=whatsapp&style=social&url=https%3A%2F%2Fwa.me%2Fqr%2F7QVWELZNDZBBE1)](https://wa.me/qr/7QVWELZNDZBBE1)
-[![Messenger](https://img.shields.io/twitter/url?color=blue&label=messenger&logo=messenger&style=social&url=https%3A%2F%2Fm.me%2Fs.sutharsan.20)](https://m.me/s.sutharsan.20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sutharsan-s-478362240/) 
 [![Telegram](https://img.shields.io/twitter/url?color=blue&label=telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fs_sutharsan_20)](https://t.me/s_sutharsan_20)
-
 [![Twitch](https://img.shields.io/twitter/url?label=Twitch&logo=Twitch&style=social&url=https%3A%2F%2Fwww.twitch.tv%2Fs_sutharsan_20%3Fsr%3Da)](https://www.twitch.tv/s_sutharsan_20?sr=a)
 
 
