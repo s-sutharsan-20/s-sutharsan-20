@@ -62,4 +62,4 @@
 [![Lichess.org](https://img.shields.io/twitter/url?color=blue&label=Lichess.org&logo=lichess&logoColor=black&style=social&url=https%3A%2F%2Flichess.org%2F%40%2Fs_sutharsan_20)](https://lichess.org/@/s_sutharsan_20)
 ###
 ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/s.sutharsan.20) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/s.sutharsan.20) 
