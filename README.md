@@ -52,7 +52,7 @@
 
 
 ### 🌐Social Media✨
-[![website](https://img.shields.io/website?style=plastic&url=https%3A%2F%2Flinktr.ee%2Fs.sutharsan.20)](https://linktr.ee/s.sutharsan.20)
+[![Website](https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white&style=vertical-align:center&)](https://linktr.ee/s.sutharsan.20)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/s_sutharsan_20) 
 [![Instagram](https://img.shields.io/twitter/url?label=instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fs.sutharsan.20%2F)](https://instagram.com/s.sutharsan.20?r=nametag)
 
