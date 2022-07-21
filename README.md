@@ -59,6 +59,7 @@
 [![Facebook](https://img.shields.io/twitter/url?color=blue&label=facebook&logo=facebook&logoColor=blue&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fs.sutharsan.20)](https://www.facebook.com/s.sutharsan.20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sutharsan-s-478362240/) 
 [![Telegram](https://img.shields.io/twitter/url?color=blue&label=telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fs_sutharsan_20)](https://t.me/s_sutharsan_20)
+
 [![Twitch](https://img.shields.io/twitter/url?label=Twitch&logo=Twitch&style=social&url=https%3A%2F%2Fwww.twitch.tv%2Fs_sutharsan_20%3Fsr%3Da)](https://www.twitch.tv/s_sutharsan_20?sr=a)
 
 ### ♟️playing Area✨
