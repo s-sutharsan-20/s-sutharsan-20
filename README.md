@@ -10,6 +10,7 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=s-sutharsan-20&theme=highcontrast&show_icons=true&count_private=true)
+
 ### 📈 Contribution Graph ✨
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=s-sutharsan-20&theme=chartreuse-dark&no-frame=true)
 
