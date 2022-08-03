@@ -42,17 +42,17 @@
 
 
 
-### 💻Learning Area✨
+### 💻programming Profile✨
 [![Github](https://img.shields.io/twitter/url?color=blue&label=Github&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2Fs-sutharsan-20)](https://github.com/s-sutharsan-20)
 [![Stackoverflow](https://img.shields.io/twitter/url?label=stackoverflow&logo=stackoverflow&logoColor=orange&style=social&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F16702277%2Fs-sutharsan-20)](https://stackoverflow.com/users/16702277/s-sutharsan-20)
-
-
 [![Sololearn](https://img.shields.io/twitter/url?color=blue&label=Sololearn&logo=sololearn&logoColor=black&style=social&url=https%3A%2F%2Fwww.sololearn.com%2FProfile%2F20162416%2F%3Fref%3Dapp)](https://www.sololearn.com/Profile/20162416/?ref=app)
+
+
 [![Kaggle](https://img.shields.io/twitter/url?color=blue&label=Kaggle&logo=kaggle&logoColor=black&style=social&url=https%3A%2F%2Fwww.kaggle.com%2Fssutharsan20%2FHome%3FisEditing%3DFalse%26verifyPhone%3DFalse)](https://www.kaggle.com/ssutharsan20)
 [![Medium](https://img.shields.io/twitter/url?label=Medium&logo=medium&style=social&url=https%3A%2F%2Fmedium.com%2F%40s.sutharsan.20%3Fsource%3Demail-3ed481bdfd1a-1655413664389-digest.reader-------------------------baaad420_34d5_4145_bdc5_cb197d487128)](https://medium.com/@s.sutharsan.20?source=email-3ed481bdfd1a-1655413664389-digest.reader-------------------------baaad420_34d5_4145_bdc5_cb197d487128)
+[![Hacker Earth](https://img.shields.io/twitter/url?label=Hacker%20Earth&logo=hackerearth&style=social&url=https%3A%2F%2Fwww.hackerearth.com%2F%40s.sutharsan.20)](https://www.hackerearth.com/@s.sutharsan.20)
 
-
-### 🌐Social Media✨
+### 🌐Social Profile✨
 [![Website](https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white&style=vertical-align:center&)](https://linktr.ee/s.sutharsan.20)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/s_sutharsan_20) 
 [![Instagram](https://img.shields.io/twitter/url?label=instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fs.sutharsan.20%2F)](https://instagram.com/s.sutharsan.20?r=nametag)
