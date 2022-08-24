@@ -52,6 +52,13 @@
 [![Medium](https://img.shields.io/twitter/url?label=Medium&logo=medium&style=social&url=https%3A%2F%2Fmedium.com%2F%40s.sutharsan.20%3Fsource%3Demail-3ed481bdfd1a-1655413664389-digest.reader-------------------------baaad420_34d5_4145_bdc5_cb197d487128)](https://medium.com/@s.sutharsan.20?source=email-3ed481bdfd1a-1655413664389-digest.reader-------------------------baaad420_34d5_4145_bdc5_cb197d487128)
 [![Hacker Earth](https://img.shields.io/twitter/url?label=Hacker%20Earth&logo=hackerearth&style=social&url=https%3A%2F%2Fwww.hackerearth.com%2F%40s.sutharsan.20)](https://www.hackerearth.com/@s.sutharsan.20)
 
+
+[![CodeChef](https://img.shields.io/twitter/url?label=CodeChef&logo=CodeChef&style=social&url=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fs_sutharsan_20)](https://www.codechef.com/users/s_sutharsan_20)
+[![LeetCode](https://img.shields.io/twitter/url?label=LeetCode&logo=LeetCode&logoColor=orange&style=social&url=https%3A%2F%2Fleetcode.com%2Fs-sutharsan-20%2F)](https://leetcode.com/s-sutharsan-20/)
+
+[![HackerRank](https://img.shields.io/twitter/url?label=HackerRank&logo=HackerRank&logoColor=white%20and%20green&style=social&url=https%3A%2F%2Fwww.hackerrank.com%2Fs_sutharsan_20)](https://www.hackerrank.com/s_sutharsan_20)
+[![DataCamp](https://img.shields.io/twitter/url?label=DataCamp&logo=Datacamp&logoColor=green&style=social&url=https%3A%2F%2Fapp.datacamp.com%2Fprofile%2Fssutharsan20)](https://app.datacamp.com/profile/ssutharsan20)
+
 ### 🌐Social Profile✨
 [![Website](https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white&style=vertical-align:center&)](https://linktr.ee/s.sutharsan.20)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/s_sutharsan_20) 
