@@ -14,8 +14,6 @@
 ### 📈 Contribution Graph ✨
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=s-sutharsan-20&theme=chartreuse-dark&no-frame=true)
 
-![snake gif](https://raw.githubusercontent.com/s-sutharsan-20/s-sutharsan-20/output/github-contribution-grid-snake.svg)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=s-sutharsan-20&theme=radical&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-sutharsan-20&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
