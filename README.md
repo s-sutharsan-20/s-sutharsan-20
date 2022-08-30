@@ -55,9 +55,10 @@
 
 [![CodeChef](https://img.shields.io/twitter/url?label=CodeChef&logo=CodeChef&style=social&url=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fs_sutharsan_20)](https://www.codechef.com/users/s_sutharsan_20)
 [![LeetCode](https://img.shields.io/twitter/url?label=LeetCode&logo=LeetCode&logoColor=orange&style=social&url=https%3A%2F%2Fleetcode.com%2Fs-sutharsan-20%2F)](https://leetcode.com/s-sutharsan-20/)
-
 [![HackerRank](https://img.shields.io/twitter/url?label=HackerRank&logo=HackerRank&logoColor=white%20and%20green&style=social&url=https%3A%2F%2Fwww.hackerrank.com%2Fs_sutharsan_20)](https://www.hackerrank.com/s_sutharsan_20)
+
 [![DataCamp](https://img.shields.io/twitter/url?label=DataCamp&logo=Datacamp&logoColor=green&style=social&url=https%3A%2F%2Fapp.datacamp.com%2Fprofile%2Fssutharsan20)](https://app.datacamp.com/profile/ssutharsan20)
+[![GeeksforGeeks](https://img.shields.io/twitter/url?label=geeksforGeeks&logo=geeksforgeeks&style=social&url=https%3A%2F%2Fauth.geeksforgeeks.org%2Fuser%2Fssutharsan20)](https://auth.geeksforgeeks.org/user/ssutharsan20)
 
 ### 🌐Social Profile✨
 [![Website](https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white&style=vertical-align:center&)](https://linktr.ee/s.sutharsan.20)
