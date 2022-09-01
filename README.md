@@ -8,15 +8,14 @@
 
 ### 📊Github Stats✨
 
+![](https://github-readme-stats.vercel.app/api?username=s-sutharsan-20&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=s-sutharsan-20&theme=highcontrast&show_icons=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=s-sutharsan-20&theme=tokyonight&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-sutharsan-20&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 📈 Contribution Graph ✨
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=s-sutharsan-20&theme=chartreuse-dark&no-frame=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=s-sutharsan-20&theme=radical&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-sutharsan-20&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies✨
 ![](https://github-profile-trophy.vercel.app/?username=s-sutharsan-20&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
