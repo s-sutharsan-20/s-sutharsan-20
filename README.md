@@ -58,6 +58,9 @@
 
 [![DataCamp](https://img.shields.io/twitter/url?label=DataCamp&logo=Datacamp&logoColor=green&style=social&url=https%3A%2F%2Fapp.datacamp.com%2Fprofile%2Fssutharsan20)](https://app.datacamp.com/profile/ssutharsan20)
 [![GeeksforGeeks](https://img.shields.io/twitter/url?label=geeksforGeeks&logo=geeksforgeeks&style=social&url=https%3A%2F%2Fauth.geeksforgeeks.org%2Fuser%2Fssutharsan20)](https://auth.geeksforgeeks.org/user/ssutharsan20)
+[![FreeCodeCamp](https://img.shields.io/twitter/url?label=FreeCodeCamp&logo=FreeCodeCamp&style=social&url=https%3A%2F%2Fwww.freecodecamp.org%2Fs-sutharsan-20)](https://www.freecodecamp.org/s-sutharsan-20)
+
+
 
 ### 🌐Social Profile✨
 [![Website](https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white&style=vertical-align:center&)](https://linktr.ee/s.sutharsan.20)
