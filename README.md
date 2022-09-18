@@ -1,4 +1,17 @@
-### Hi 👋 I'm Sutharsan✨
+### Hi 👋 I'm Sutharsan✨ 
+
+     😇 A Passionate Coder 👨‍💻
+              
+     😍 Aspiring Python Developer 🐍 
+                     
+     🧐 Interested in Machine Learning 🤖
+                      
+     😎 Data Visualisation 📊
+                      
+     😃 Data Analysis 📈
+
+
+
 
 <!--
 **s-sutharsan-20/s-sutharsan-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
