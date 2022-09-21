@@ -1,14 +1,18 @@
 ### Hi 👋 I'm Sutharsan✨ 
 
-     😇 A Passionate Coder 👨‍💻
+😇 A Passionate Coder 👨‍💻
               
-     😍 Aspiring Python Developer 🐍 
+😍 Aspiring Python Developer 🐍 
                      
-     🧐 Interested in Machine Learning 🤖
+🧐 Interested in 
+     
+🧐Machine Learning 🤖
                       
-     😎 Data Visualisation 📊
+😎 Data Visualisation 📊
                       
-     😃 Data Analysis 📈
+😃 Data Analysis 📈
+     
+💻 Learning Web Development 🕸
 
 
 
