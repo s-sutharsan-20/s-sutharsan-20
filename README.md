@@ -12,7 +12,7 @@
                       
 😃 Data Analysis 📈
      
-💻 Learning Web Development 🕸
+💻 Learning Web Development 🕸 and C programming
 
 
 
