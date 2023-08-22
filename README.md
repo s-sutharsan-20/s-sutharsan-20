@@ -1,22 +1,10 @@
-### Hi 👋 I'm Sutharsan✨ 
+### HI I'm Sutharssan
+As an Electronic and Communication Engineering student,
+I am actively seeking opportunities to apply my skills and contribute to the development of new technologies. Whether it's in research and development or product design, I am excited to collaborate with industry professionals to make a tangible impact.
 
-😇 A Passionate Coder 👨‍💻
-              
-😍 Aspiring Python Developer 🐍 
-                     
-🧐 Interested in 
-     
-🧐Machine Learning 🤖
-                      
-😎 Data Visualisation 📊
-                      
-😃 Data Analysis 📈
-     
-💻 Learning Web Development 🕸 and C programming
+If you are looking for a motivated and dedicated Engineering professional with a strong foundation in Programming in Python, C and Web Development, I would welcome the opportunity to connect and discuss how I can contribute to your organization's success.
 
-
-
-
+Feel free to reach out to me via LinkedIn or email. Let's connect and explore the possibilities of working together to create a brighter technological future.
 
 <!--
 **s-sutharsan-20/s-sutharsan-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
