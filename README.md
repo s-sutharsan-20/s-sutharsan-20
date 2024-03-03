@@ -2,9 +2,9 @@
 
 I'm currently pursuing my Bachelor's in Electronics and Communication Engineering (BE ECE) at Mepco Schlenk Engineering College. I'm passionate about technology and love diving into the world of programming.
 
-- 🌱 I'm learning and exploring various programming languages, including Python, C, and C++.
+- 🌱 I'm learning and exploring various programming languages, including Python, C, C++ and Data Structures and Algorithms.
 - 🌐 I'm also fascinated by web development and have experience with HTML to create interactive and dynamic web content.
-- 🤖 My curiosity extends to the realms of Artificial Intelligence (AI) and Machine Learning (ML), where I'm eager to apply these concepts to real-world problems.
+- 🤖  I'm eager to apply these concepts to real-world problems.
 
 In my free time, I enjoy working on personal coding projects and expanding my knowledge through online courses and tutorials.
 
