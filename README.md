@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I’m a 3rd-year Electronics and Communication Eng
 - Learning IoT to bridge hardware and software.
 - Research on Image Processing field.
 
+In my free time, I enjoy working on personal coding projects and expanding my knowledge through online courses and tutorials.
 ## 📈 My Goals
 
 - To build innovative projects that solve real-world problems.
@@ -29,8 +30,5 @@ Welcome to my GitHub profile! I’m a 3rd-year Electronics and Communication Eng
 ## 📫 Let’s Connect
 
 - **LinkedIn:** [Sutharsan](https://www.linkedin.com/in/ssutharsan20/)
+- **Mail:** [Sutharsan](mailto:s.sutharsan.201104@gmail.com)
 - **Blog:** [Captured Chronicles](https://pixelpioneersuthar.blogspot.com/)
-
-## 📊 GitHub Stats
-
-![Sutharsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-sutharsan-20&show_icons=true&theme=radical)
