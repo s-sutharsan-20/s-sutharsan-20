@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sutharsan
 
-Welcome to my GitHub profile! I’m a 3rd-year Electronics and Communication Engineering student with a passion for building solutions that merge technology and creativity. From developing web applications to exploring embedded systems, I love turning ideas into reality.
+Welcome to my GitHub profile! I’m a 3rd-year Electronics and Communication Engineering student with a passion for building solutions that merge technology and creativity. From developing web applications to exploring electronics, I love turning ideas into reality.
 
 ## 🚀 About Me
 
