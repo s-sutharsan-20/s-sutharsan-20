@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m a 3rd-year Electronics and Communication Eng
 - **Languages:** Python, C, C++, JavaScript, HTML, CSS, PHP
 - **Other Skills:** Image Processing, IoT, Problem Solving
 
-## 🌱 I’m Currently Learning
+## 🌱 My Current Progress
 
 - Exploring advanced web development frameworks and design principles.
 - Learning IoT to bridge hardware and software.
@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I’m a 3rd-year Electronics and Communication Eng
 ## 📈 My Goals
 
 - To build innovative projects that solve real-world problems.
-- To master web development and embedded systems before my 6th semester.
 - To explore internship and job opportunities in core electronics and software development fields.
 
 ## 📫 Let’s Connect
