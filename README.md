@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a 3rd-year Electronics and Communication Eng
 
 - 🎓 **Engineering Student:** Currently pursuing a degree in Electronics and Communication Engineering.
 - 💻 **Web Development Enthusiast:** Skilled in HTML, CSS, JavaScript, and PHP. I enjoy creating intuitive and dynamic websites.
-- 🔧 **Programming:** Proficient in Python, C++ and C, with a keen interest in IoT and Image Processing.
+- 🔧 **Programming:** Proficient in Python, C and C++, with a keen interest in IoT and Embedded Systems.
 - 🎨 **Design & Creativity:** Passionate about web design, user experience, and crafting visually appealing interfaces.
 - 📸 **Photography:** A creative outlet that helps me capture the world from a unique perspective, blending technical precision with artistic flair.
 
@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I’m a 3rd-year Electronics and Communication Eng
 
 - Exploring advanced web development frameworks and design principles.
 - Learning IoT to bridge hardware and software.
-- Research on Image Processing field.
 
 In my free time, I enjoy working on personal coding projects and expanding my knowledge through online courses and tutorials.
 ## 📈 My Goals
@@ -31,4 +30,3 @@ In my free time, I enjoy working on personal coding projects and expanding my kn
 
 - **LinkedIn:** [Sutharsan](https://www.linkedin.com/in/ssutharsan20/)
 - **Mail:** [Sutharsan](mailto:s.sutharsan.201104@gmail.com)
-- **Blog:** [Captured Chronicles](https://pixelpioneersuthar.blogspot.com/)
